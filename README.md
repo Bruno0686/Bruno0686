@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Bruno Dias Ferraz Costa Santos, tenho 15 anos, sou estudante de programação, moro em Araçariguama/SP. Gosto de Informática e toda a área de conhecimento em TI, principalmente Phyton, sou comunicativo, adoro de desafios e superá-los.</p>
+<p align="left">Me chamo Bruno Dias Ferraz Costa Santos, tenho 16 anos, sou estudante de programação, estudo Técnico em Desenvolvimento de Sistemas na Etec Ermelinda Giannini Texeira, moro em Araçariguama/SP. Gosto de Informática e toda a área de conhecimento em TI, principalmente Phyton, sou comunicativo, adoro de desafios e superá-los.</p>
 
 ###
 
