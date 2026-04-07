@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo sobre html.<br>🎯 Meu objetivo é ser um programado ou um analista de dados com alta performance.<br>🎲 Tenho um bom desempenho com phyton, e aprendo rapido as coisas.</p>
+<p align="left">📚 Atualmente estou aprendendo sobre Java, e melhorando minhas habilidades em Python, HTML e CSS.<br>🎯 Meu objetivo é ser um programador voltado para o back-end com alta performance.<br>🎲 Tenho um bom desempenho com phyton, e aprendo rapido as coisas.</p>
 
 ###
 
