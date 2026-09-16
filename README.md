@@ -1,4 +1,4 @@
-<h1 align="left">oii!, 👋 Eu sou Bruno Dias.</h1>
+<h1 align="left">Opa!, 👋 Eu sou Bruno Dias.</h1>
 
 ###
 
